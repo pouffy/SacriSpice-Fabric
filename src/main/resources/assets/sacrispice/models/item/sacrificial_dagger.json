@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "sacrispice:item/tool/sacrificial_dagger"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35.66, 89.63, -148.7],
+			"translation": [0, -7, -0.25],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

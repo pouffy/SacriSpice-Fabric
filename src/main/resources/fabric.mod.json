@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.sacrispice.SacriSpice"
+      "com.pouffy.sacrispice.SacriSpice"
     ]
   },
   "mixins": [
